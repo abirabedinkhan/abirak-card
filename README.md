@@ -1,3 +1,2 @@
-# abirak-card
-# abirak-card
-# abirak-card
+# AbirAK Card
+This is a temporary placeholder for [abirak.me](https://abirak.me/). I am currently focusing on my high school studies, so all development activities are temporarily postponed. I look forward to resuming work as soon as possible.
